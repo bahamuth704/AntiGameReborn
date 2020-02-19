@@ -448,7 +448,7 @@ AGO.Item = {
     402: {metal: 1500, crystal: 500, deuterium: 0, retreat: 2E3},
     403: {metal: 6E3, crystal: 2E3, deuterium: 0, retreat: 8E3},
     404: {metal: 2E4, crystal: 15E3, deuterium: 2E3, retreat: 37E3},
-    405: {metal: 2E3, crystal: 6E3, deuterium: 0, retreat: 8E3},
+    405: {metal: 5E3, crystal: 2E3, deuterium: 0, retreat: 8E3},
     406: {metal: 5E4, crystal: 5E4, deuterium: 3E4, retreat: 13E4},
     407: {metal: 1E4, crystal: 1E4, deuterium: 0, retreat: 2E4},
     408: {metal: 5E4, crystal: 5E4, deuterium: 0, retreat: 1E5},
